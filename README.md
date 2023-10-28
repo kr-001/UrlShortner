@@ -11,9 +11,8 @@ This is a simple URL shortener built with Flask.
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/flask-url-shortener.git`
-2. Navigate to the project directory: `cd flask-url-shortener`
-3. Install the required packages: `pip install -r requirements.txt`
+1. Clone this repository: `git clone https://github.com/kr-001/UrlShortner.git`
+2. Navigate to the project directory: `cd UrlShortner`
 
 ## Usage
 
